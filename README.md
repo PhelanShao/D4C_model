@@ -2,7 +2,7 @@
 clone from https://github.com/PhelanShao/ToxD4C
 # D4C: A Unified Deep Learning Framework for Advanced Molecular properties Prediction
 
-ToxD4C (Dual-Driven Dynamic Deep Chemistry) is a state-of-the-art deep learning framework engineered for high-accuracy, interpretable, and robust prediction of molecular properties
+D4C (Dual-Driven Dynamic Deep Chemistry) is a state-of-the-art deep learning framework engineered for high-accuracy, interpretable, and robust prediction of molecular properties
 
 ---
 
